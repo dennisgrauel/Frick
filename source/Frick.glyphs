@@ -63,7 +63,7 @@ tag = aalt;
 automatic = 1;
 code = "lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [cedillacomb dotbelowcomb lowlinecomb ogonekcomb horncomb];
+	@CombiningNonTopAccents = [cedillacomb dotbelowcomb lowlinecomb ogonekcomb horncomb strokeshortcomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
 } ccmp_Other_1;
@@ -28260,7 +28260,7 @@ instanceInterpolations = {
 m01 = 1;
 };
 name = Condensed;
-weightClass = 700;
+weightClass = 900;
 widthClass = 3;
 },
 {
@@ -28271,7 +28271,7 @@ instanceInterpolations = {
 m002 = 1;
 };
 name = Regular;
-weightClass = 700;
+weightClass = 900;
 }
 );
 kerningLTR = {

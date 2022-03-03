@@ -1,5 +1,5 @@
 {
-.appVersion = "3105";
+.appVersion = "3114";
 .formatVersion = 3;
 DisplayStrings = (
 "vindemiates öryggisverðina impressionnée Bermuda-rigged příležitost autokinetic geophysical calotypists perispermic troglodytical unemotional philanthropies disembodying trochometer vaccinators decrescendo byttehandel arrangieren soteriology interdictive zurückfahren inferiorities outsweetened Aquifoliaceae flower-clocks crateriform fractionlet sustinuisse Protoceratops fractionation Lebenszeichen disincentives overstained tranquillizers succursales kontrolloida nepríjemnosti peanøttsmør reciprocally quill-feather",
@@ -28353,7 +28353,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "";
+value = "© Dennis Grauel 2022";
 }
 );
 }
